@@ -1,0 +1,7 @@
+body { font-family: system-ui, sans-serif; background:#0b0d10; color:#e9eef5; }
+.container { max-width: 900px; margin: 40px auto; padding: 0 16px; }
+.card { background:#141821; border:1px solid #2a3242; border-radius: 12px; padding: 16px; margin: 16px 0; }
+input, select, button { padding: 10px; border-radius: 10px; border: 1px solid #2a3242; background:#0f1320; color:#e9eef5; }
+button { cursor:pointer; }
+pre { white-space: pre-wrap; background:#0f1320; padding: 12px; border-radius: 12px; border:1px solid #2a3242; }
+.muted { color:#a9b3c7; margin-top: 8px; }
