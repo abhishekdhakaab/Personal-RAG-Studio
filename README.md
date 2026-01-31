@@ -75,9 +75,6 @@ Also, I didn’t want to upload personal or private documents to public AI tools
 
 ![Document upload](screenshot.png)
 
-```text
-[ Screenshot of document upload page ]
-[ Screenshot of question answering with citations ]
 
 
 How to run this locally
